@@ -6,10 +6,10 @@
 
 
 * HDP기반 도커라이징 전, 후 
-- 실행시간 데이터 [hdp_duration.csv](https://github.com/boahchoi/KIPS_2020/blob/master/hdp_duration.csv)
-- 처리량 데이터 [hdp_throughput.csv](https://github.com/boahchoi/KIPS_2020/blob/master/hdp_throughput.csv)
+   - 실행시간 데이터 [hdp_duration.csv](https://github.com/boahchoi/KIPS_2020/blob/master/hdp_duration.csv)
+   - 처리량 데이터 [hdp_throughput.csv](https://github.com/boahchoi/KIPS_2020/blob/master/hdp_throughput.csv)
    
    
 * SPARK기반 도커라이징 전, 후 
-    - 실행시간 데이터 [mapr_duration.csv](https://github.com/boahchoi/KIPS_2020/blob/master/mapr_duration.csv)
-    - 처리량 데이터 [mapr_throughput.csv](https://github.com/boahchoi/KIPS_2020/blob/master/mapr_throughput.csv)
+   - 실행시간 데이터 [mapr_duration.csv](https://github.com/boahchoi/KIPS_2020/blob/master/mapr_duration.csv)
+   - 처리량 데이터 [mapr_throughput.csv](https://github.com/boahchoi/KIPS_2020/blob/master/mapr_throughput.csv)

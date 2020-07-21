@@ -13,4 +13,4 @@
    * 처리량 데이터 [mapr_throughput.csv](https://github.com/boahchoi/KIPS_2020/blob/master/mapr_throughput.csv)
    
    
-### HDP와 MapR기반 도커라이징 전, 후 T검정 [t-test.r](https://github.com/boahchoi/KIPS_2020/blob/master/T-test.R)
+### HDP와 MapR기반 도커라이징 전, 후 T검정 [T-test.R](https://github.com/boahchoi/KIPS_2020/blob/master/T-test.R)
